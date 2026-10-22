@@ -63,6 +63,14 @@ Every key goes to Angband as usual, except these:
 - **F6**: sound on or off.
 - **Hold Alt**: make the items lying around sparkle, to spot loot.
 
+## Supporting Angband Master
+
+Angband Master is free and always will be. Its pictures, monster clips,
+sounds and music are paid for as they're made, so if you enjoy it and
+would like to help with those costs, you can buy me a coffee at
+[ko-fi.com/wolfang42](https://ko-fi.com/wolfang42). Thank you, and never
+required.
+
 ## Credits and licence
 
 Angband is the work of the Angband Dev Team and everyone who has worked on
