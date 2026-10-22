@@ -73,5 +73,6 @@ rubberduck, p0ss and others), all credited in full with the source.
 
 Angband is released under the GNU GPL version 2 or the Angband licence;
 because Angband Master builds on it, Angband Master will be released under
-the GNU GPL version 2. It is free, non-commercial, and not affiliated with the
-Tolkien Estate or Middle-earth Enterprises.
+the GNU GPL version 2. It is free to play (donations are welcome, never
+required) and not affiliated with the Tolkien Estate or Middle-earth
+Enterprises.
