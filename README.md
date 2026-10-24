@@ -19,12 +19,14 @@ In development. The game and its source will be published here.
 - **A first-person view** of the dungeon: torch-lit stone, doors, stairs,
   rubble, caves and vaulted rooms, built from Angband's own map as you
   explore it.
-- **An overhead map always in view**, and a big one you can click to walk
-  to a spot. Markers at the edges of the view show monsters beside or
-  behind you.
+- **An overhead map always in view**, drawn as an explorer's map on
+  parchment, with the monsters as small tokens of their pictures, and a big
+  one (F3) you can click to walk to a spot. Markers at the edges of the
+  view show monsters beside or behind you.
 - **Painted monsters** standing in the world, each of Angband's 600-odd,
-  rounded out so they have some body. The monsters of the first ten levels
-  move, standing and walking, and many monsters have a death of their own.
+  rounded out so they have some body. The monsters of the first thirty
+  levels move, standing and walking, and many monsters have a death of
+  their own.
 - **Pictures for every item** and every named artifact, in picture screens
   for your inventory, equipment and the shops (whose keepers are painted too).
 - **Your own hands** holding your spell book as you cast, and your weapon as
@@ -58,9 +60,20 @@ Every key goes to Angband as usual, except these:
   step.
 - **Shift** with a movement key runs.
 - **F3**: the big map (click it to walk there; Escape or F3 closes it).
+- **The small map**: click a square to walk there; the mouse wheel over it
+  zooms out to the whole level and back; click its compass to have it turn
+  with you (the way you face is up) or stay north up.
 - **F4**: the haze in unexplored openings, on or off.
 - **F5**: portrait and orbs, or Angband's text.
 - **F6**: sound on or off.
+- **F7**: who paints your portrait as you play, Grok or your own computer
+  (painting as you play is optional, and off at first).
+- **F8**: the small map on or off.
+- **F9**: pause when hurt, on or off (on at first): each time you're hurt
+  with hit points below the warning level, keys wait half a second, so
+  keys pressed in a hurry don't carry on regardless. Apart from that, a
+  held key always stops repeating when a monster comes into view or you're
+  hurt, as Angband stops running; press it again to go on.
 - **Hold Alt**: make the items lying around sparkle, to spot loot.
 
 ## Supporting Angband Master
